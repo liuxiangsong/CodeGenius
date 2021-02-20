@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace @{var strNamespace=@Model.tableInfo.NameSpace+".Model."+@Model.tableInfo.Folder;} @strNamespace.Trim()
+{
+	/// <summary>
+	/// @Model.tableInfo.TableName :实体类 
+	/// </summary>
+	[Serializable]
+	[BindTable("@Model.tableInfo.TableName")]
+	public partial class @{@Model.tableInfo.TableName}Info
+	{
+	@foreach (ColumnSchema info in @Model.tableInfo.Columns)
+    {<text>
+		///<summary>
+		/// @info.Description  @info.FullDataType
+		///</summary>				 
+		[BindField("@info.Name", IsKey = @info.IsPrimaryKey,IsIdentity=@info.IsIdentity)]
+		public @TypeHelper.SqlTypeStringToCsharpNullableTypeString(@info.DataType) @info.Name
+			{
+				get;
+				set;
+			}</text>				
+	}	
+	}
+}

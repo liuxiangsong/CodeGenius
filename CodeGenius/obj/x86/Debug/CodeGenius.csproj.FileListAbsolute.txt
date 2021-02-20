@@ -1,0 +1,517 @@
+C:\Users\13082602\AppData\Local\Temporary Projects\CodeGenius\bin\Debug\CodeGenius.exe
+C:\Users\13082602\AppData\Local\Temporary Projects\CodeGenius\bin\Debug\CodeGenius.pdb
+C:\Users\13082602\AppData\Local\Temporary Projects\CodeGenius\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\13082602\AppData\Local\Temporary Projects\CodeGenius\obj\x86\Debug\CodeGenius.Properties.Resources.resources
+C:\Users\13082602\AppData\Local\Temporary Projects\CodeGenius\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\13082602\AppData\Local\Temporary Projects\CodeGenius\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\13082602\AppData\Local\Temporary Projects\CodeGenius\obj\x86\Debug\CodeGenius.exe
+C:\Users\13082602\AppData\Local\Temporary Projects\CodeGenius\obj\x86\Debug\CodeGenius.pdb
+E:\work\My Projects\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.exe
+E:\work\My Projects\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.pdb
+E:\work\My Projects\CodeGenius\CodeGenius\bin\Debug\CodeGenius.exe.config
+E:\work\My Projects\CodeGenius\CodeGenius\bin\Debug\CodeGenius.exe
+E:\work\My Projects\CodeGenius\CodeGenius\bin\Debug\CodeGenius.pdb
+E:\work\My Projects\CodeGenius\CodeGenius\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\work\My Projects\CodeGenius\CodeGenius\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+E:\work\My Projects\CodeGenius\CodeGenius\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\work\My Projects\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.Properties.Resources.resources
+E:\work\My Projects\CodeGenius\CodeGenius\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\work\My Projects\CodeGenius\CodeGenius\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\work\My Projects\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.DataBase.resources
+E:\work\My Projects\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.SqlDBConnection.resources
+E:\work\My Projects\CodeGenius\CodeGenius\bin\Debug\Control Methods.dll
+E:\work\My Projects\CodeGenius\CodeGenius\bin\Debug\Control Methods.pdb
+E:\work\My Projects\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.ViewForm.resources
+E:\work\My Projects\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.exe.licenses
+E:\work\My Projects\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.MainForm.resources
+E:\work\My Projects\CodeGenius\CodeGenius\obj\x86\Debug\Interop.SQLDMO.dll
+E:\work\My Projects\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csproj.ResolveComReference.cache
+E:\work\My Projects\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.SQLQueryAnalyzer.resources
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\bin\Debug\CodeGenius.exe.config
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.exe
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.pdb
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.DataBase.resources
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.MainForm.resources
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.SqlDBConnection.resources
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.SQLQueryAnalyzer.resources
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.ViewForm.resources
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.exe.licenses
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\bin\Debug\CodeGenius.exe
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\bin\Debug\CodeGenius.pdb
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\bin\Debug\Control Methods.dll
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\bin\Debug\Control Methods.pdb
+C:\Users\Administrator\Desktop\CodeGenius\CodeGenius\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+E:\C#\程序\mywork\CodeGenius\CodeGenius\bin\Debug\CodeGenius.exe.config
+E:\C#\程序\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csproj.ResolveComReference.cache
+E:\C#\程序\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.exe
+E:\C#\程序\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.pdb
+E:\C#\程序\mywork\CodeGenius\CodeGenius\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\C#\程序\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.DataBase.resources
+E:\C#\程序\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.MainForm.resources
+E:\C#\程序\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.Properties.Resources.resources
+E:\C#\程序\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.SqlDBConnection.resources
+E:\C#\程序\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.SQLQueryAnalyzer.resources
+E:\C#\程序\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.ViewForm.resources
+E:\C#\程序\mywork\CodeGenius\CodeGenius\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\C#\程序\mywork\CodeGenius\CodeGenius\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\C#\程序\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.exe.licenses
+E:\C#\程序\mywork\CodeGenius\CodeGenius\bin\Debug\CodeGenius.exe
+E:\C#\程序\mywork\CodeGenius\CodeGenius\bin\Debug\CodeGenius.pdb
+E:\C#\程序\mywork\CodeGenius\CodeGenius\bin\Debug\Control Methods.dll
+E:\C#\程序\mywork\CodeGenius\CodeGenius\bin\Debug\Control Methods.pdb
+E:\C#\程序\mywork\CodeGenius\CodeGenius\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+E:\C#\程序\mywork\CodeGenius\CodeGenius\obj\x86\Debug\Interop.SQLDMO.dll
+E:\C#\程序\mywork\CodeGenius\CodeGenius\bin\Debug\Encryption.dll
+E:\C#\程序\mywork\CodeGenius\CodeGenius\bin\Debug\Encryption.pdb
+E:\C#\程序\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.Encryption.resources
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\bin\Debug\CodeGenius.exe.config
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csproj.ResolveComReference.cache
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.exe
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.pdb
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.DataBase.resources
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.Encryption.resources
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.MainForm.resources
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.Properties.Resources.resources
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.SqlDBConnection.resources
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.SQLQueryAnalyzer.resources
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.ViewForm.resources
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.exe.licenses
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\bin\Debug\CodeGenius.exe
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\bin\Debug\CodeGenius.pdb
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\bin\Debug\Control Methods.dll
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\bin\Debug\Encryption.dll
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\bin\Debug\Control Methods.pdb
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\bin\Debug\Encryption.pdb
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\bin\Debug\DataBaseDocumentGenerator.dll
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\bin\Debug\DataBaseHelper.dll
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\bin\Debug\DataBaseDocumentGenerator.pdb
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\bin\Debug\DataBaseHelper.pdb
+C:\Users\13082602\Desktop\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.GenerateDBDoc.resources
+F:\mywork\CodeGenius\CodeGenius\bin\Debug\CodeGenius.exe.config
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\Interop.SQLDMO.dll
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csproj.ResolveComReference.cache
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.exe
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.pdb
+F:\mywork\CodeGenius\CodeGenius\bin\Debug\CodeGenius.exe
+F:\mywork\CodeGenius\CodeGenius\bin\Debug\CodeGenius.pdb
+F:\mywork\CodeGenius\CodeGenius\bin\Debug\DataBaseDocumentGenerator.dll
+F:\mywork\CodeGenius\CodeGenius\bin\Debug\DataBaseHelper.dll
+F:\mywork\CodeGenius\CodeGenius\bin\Debug\Encryption.dll
+F:\mywork\CodeGenius\CodeGenius\bin\Debug\SqlCodeGenerator.dll
+F:\mywork\CodeGenius\CodeGenius\bin\Debug\DataBaseDocumentGenerator.pdb
+F:\mywork\CodeGenius\CodeGenius\bin\Debug\DataBaseHelper.pdb
+F:\mywork\CodeGenius\CodeGenius\bin\Debug\Encryption.pdb
+F:\mywork\CodeGenius\CodeGenius\bin\Debug\SqlCodeGenerator.pdb
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.DataBase.resources
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.Encryption.resources
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.GenerateDBDoc.resources
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.MainForm.resources
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.Properties.Resources.resources
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.SqlDBConnection.resources
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.ViewForm.resources
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.exe.licenses
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.SingleCodeGenerator.resources
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.StringBuilderTool.resources
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.TemplateManage.resources
+F:\mywork\CodeGenius\CodeGenius\bin\Debug\CodeGeniusEntity.dll
+F:\mywork\CodeGenius\CodeGenius\bin\Debug\RazorEngine.dll
+F:\mywork\CodeGenius\CodeGenius\bin\Debug\System.Web.Razor.dll
+F:\mywork\CodeGenius\CodeGenius\bin\Debug\CodeGeniusEntity.pdb
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.TemplateCodeGenerator.resources
+F:\mywork\CodeGenius\CodeGenius\bin\Debug\LibraryGenius.dll
+F:\mywork\CodeGenius\CodeGenius\bin\Debug\LibraryGenius.pdb
+F:\mywork\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.BrowseSQLServer.resources
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\bin\Debug\CodeGenius.exe.config
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\Interop.SQLDMO.dll
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csproj.ResolveComReference.cache
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.exe
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.pdb
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\bin\Debug\CodeGenius.exe
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\bin\Debug\CodeGenius.pdb
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\bin\Debug\CodeGeniusEntity.dll
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\bin\Debug\DataBaseDocumentGenerator.dll
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\bin\Debug\DataBaseHelper.dll
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\bin\Debug\Encryption.dll
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\bin\Debug\LibraryGenius.dll
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\bin\Debug\RazorEngine.dll
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\bin\Debug\SqlCodeGenerator.dll
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\bin\Debug\System.Web.Razor.dll
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\bin\Debug\CodeGeniusEntity.pdb
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\bin\Debug\LibraryGenius.pdb
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\bin\Debug\DataBaseDocumentGenerator.pdb
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\bin\Debug\DataBaseHelper.pdb
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\bin\Debug\Encryption.pdb
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\bin\Debug\SqlCodeGenerator.pdb
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csprojResolveAssemblyReference.cache
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.BrowseSQLServer.resources
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.DataBase.resources
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.Encryption.resources
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.GenerateDBDoc.resources
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.MainForm.resources
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.StringBuilderTool.resources
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.TemplateCodeGenerator.resources
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.TemplateManage.resources
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.Properties.Resources.resources
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.SqlDBConnection.resources
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.ViewForm.resources
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.SingleCodeGenerator.resources
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csproj.GenerateResource.Cache
+C:\Users\Lau\Desktop\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.exe.licenses
+E:\C#\CodeGenius\CodeGenius\bin\Debug\CodeGenius.exe
+E:\C#\CodeGenius\CodeGenius\bin\Debug\DataBaseHelper.dll
+E:\C#\CodeGenius\CodeGenius\bin\Debug\LibraryGenius.dll
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csprojResolveAssemblyReference.cache
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\Interop.SQLDMO.dll
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csproj.ResolveComReference.cache
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.BrowseSQLServer.resources
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.DataBase.resources
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.Encryption.resources
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.GenerateDBDoc.resources
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.StringBuilderTool.resources
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.TemplateCodeGenerator.resources
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.TemplateManage.resources
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.Properties.Resources.resources
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.SqlDBConnection.resources
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.ViewForm.resources
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.SingleCodeGenerator.resources
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csproj.GenerateResource.Cache
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.exe.licenses
+E:\C#\CodeGenius\CodeGenius\bin\Debug\CodeGenius.exe.config
+E:\C#\CodeGenius\CodeGenius\bin\Debug\CodeGenius.pdb
+E:\C#\CodeGenius\CodeGenius\bin\Debug\CodeGeniusEntity.dll
+E:\C#\CodeGenius\CodeGenius\bin\Debug\DataBaseDocumentGenerator.dll
+E:\C#\CodeGenius\CodeGenius\bin\Debug\DBHelper.dll
+E:\C#\CodeGenius\CodeGenius\bin\Debug\Encryption.dll
+E:\C#\CodeGenius\CodeGenius\bin\Debug\RazorEngine.dll
+E:\C#\CodeGenius\CodeGenius\bin\Debug\SqlCodeGenerator.dll
+E:\C#\CodeGenius\CodeGenius\bin\Debug\System.Web.Razor.dll
+E:\C#\CodeGenius\CodeGenius\bin\Debug\CodeGeniusEntity.pdb
+E:\C#\CodeGenius\CodeGenius\bin\Debug\LibraryGenius.pdb
+E:\C#\CodeGenius\CodeGenius\bin\Debug\DBHelper.pdb
+E:\C#\CodeGenius\CodeGenius\bin\Debug\SqlCodeGenerator.pdb
+E:\C#\CodeGenius\CodeGenius\bin\Debug\DataBaseDocumentGenerator.pdb
+E:\C#\CodeGenius\CodeGenius\bin\Debug\Encryption.pdb
+E:\C#\CodeGenius\CodeGenius\bin\Debug\DataBaseHelper.pdb
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.exe
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.pdb
+E:\C#\CodeGenius\CodeGenius\bin\Debug\CodeGenius.Component.dll
+E:\C#\CodeGenius\CodeGenius\bin\Debug\MsSqlTree.dll
+E:\C#\CodeGenius\CodeGenius\bin\Debug\CodeGenius.Component.pdb
+E:\C#\CodeGenius\CodeGenius\bin\Debug\MsSqlTree.pdb
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.DBTree.resources
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.MainFormOld.resources
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.MainForm.resources
+E:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.frmDBExplorer.resources
+E:\file\CodeGenius\CodeGenius\bin\Debug\CodeGenius.exe.config
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\Interop.SQLDMO.dll
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csproj.ResolveComReference.cache
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.exe
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.pdb
+E:\file\CodeGenius\CodeGenius\bin\Debug\CodeGenius.exe
+E:\file\CodeGenius\CodeGenius\bin\Debug\CodeGenius.pdb
+E:\file\CodeGenius\CodeGenius\bin\Debug\CodeGenius.Component.dll
+E:\file\CodeGenius\CodeGenius\bin\Debug\CodeGeniusEntity.dll
+E:\file\CodeGenius\CodeGenius\bin\Debug\DataBaseDocumentGenerator.dll
+E:\file\CodeGenius\CodeGenius\bin\Debug\DBHelper.dll
+E:\file\CodeGenius\CodeGenius\bin\Debug\Encryption.dll
+E:\file\CodeGenius\CodeGenius\bin\Debug\LibraryGenius.dll
+E:\file\CodeGenius\CodeGenius\bin\Debug\MsSqlTree.dll
+E:\file\CodeGenius\CodeGenius\bin\Debug\RazorEngine.dll
+E:\file\CodeGenius\CodeGenius\bin\Debug\SqlCodeGenerator.dll
+E:\file\CodeGenius\CodeGenius\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\file\CodeGenius\CodeGenius\bin\Debug\DataBaseHelper.dll
+E:\file\CodeGenius\CodeGenius\bin\Debug\System.Web.Razor.dll
+E:\file\CodeGenius\CodeGenius\bin\Debug\CodeGenius.Component.pdb
+E:\file\CodeGenius\CodeGenius\bin\Debug\CodeGeniusEntity.pdb
+E:\file\CodeGenius\CodeGenius\bin\Debug\LibraryGenius.pdb
+E:\file\CodeGenius\CodeGenius\bin\Debug\DBHelper.pdb
+E:\file\CodeGenius\CodeGenius\bin\Debug\MsSqlTree.pdb
+E:\file\CodeGenius\CodeGenius\bin\Debug\SqlCodeGenerator.pdb
+E:\file\CodeGenius\CodeGenius\bin\Debug\DataBaseDocumentGenerator.pdb
+E:\file\CodeGenius\CodeGenius\bin\Debug\Encryption.pdb
+E:\file\CodeGenius\CodeGenius\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+E:\file\CodeGenius\CodeGenius\bin\Debug\DataBaseHelper.pdb
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.BrowseSQLServer.resources
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.DataBase.resources
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.MainForm.resources
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.DBTree.resources
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.Encryption.resources
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.frmDBExplorer.resources
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.GenerateDBDoc.resources
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.MainFormOld.resources
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.StringBuilderTool.resources
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.TemplateCodeGenerator.resources
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.TemplateManage.resources
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.Properties.Resources.resources
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.SqlDBConnection.resources
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.ViewForm.resources
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.SingleCodeGenerator.resources
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.exe.licenses
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csprojResolveAssemblyReference.cache
+E:\file\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csproj.GenerateResource.Cache
+E:\file\CodeGenius\CodeGenius\bin\Debug\CodeGenius.Frame.dll
+E:\file\CodeGenius\CodeGenius\bin\Debug\CodeGenius.Frame.pdb
+D:\C#\CodeGenius\CodeGenius\bin\Debug\CodeGenius.exe.config
+D:\C#\CodeGenius\CodeGenius\bin\Debug\CodeGenius.exe
+D:\C#\CodeGenius\CodeGenius\bin\Debug\CodeGenius.pdb
+D:\C#\CodeGenius\CodeGenius\bin\Debug\CodeGenius.Frame.dll
+D:\C#\CodeGenius\CodeGenius\bin\Debug\DataBaseDocumentGenerator.dll
+D:\C#\CodeGenius\CodeGenius\bin\Debug\DBHelper.dll
+D:\C#\CodeGenius\CodeGenius\bin\Debug\Encryption.dll
+D:\C#\CodeGenius\CodeGenius\bin\Debug\LibraryGenius.dll
+D:\C#\CodeGenius\CodeGenius\bin\Debug\MsSqlTree.dll
+D:\C#\CodeGenius\CodeGenius\bin\Debug\RazorEngine.dll
+D:\C#\CodeGenius\CodeGenius\bin\Debug\SqlCodeGenerator.dll
+D:\C#\CodeGenius\CodeGenius\bin\Debug\DataBaseHelper.dll
+D:\C#\CodeGenius\CodeGenius\bin\Debug\System.Web.Razor.dll
+D:\C#\CodeGenius\CodeGenius\bin\Debug\CodeGenius.Frame.pdb
+D:\C#\CodeGenius\CodeGenius\bin\Debug\LibraryGenius.pdb
+D:\C#\CodeGenius\CodeGenius\bin\Debug\DBHelper.pdb
+D:\C#\CodeGenius\CodeGenius\bin\Debug\MsSqlTree.pdb
+D:\C#\CodeGenius\CodeGenius\bin\Debug\SqlCodeGenerator.pdb
+D:\C#\CodeGenius\CodeGenius\bin\Debug\DataBaseDocumentGenerator.pdb
+D:\C#\CodeGenius\CodeGenius\bin\Debug\Encryption.pdb
+D:\C#\CodeGenius\CodeGenius\bin\Debug\DataBaseHelper.pdb
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csprojResolveAssemblyReference.cache
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\Interop.SQLDMO.dll
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csproj.ResolveComReference.cache
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.AboutBox.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.BrowseSQLServer.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.DataBase.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.MainForm.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.Splash.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.DBTree.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.Encryption.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.frmDBExplorer.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.GenerateDBDoc.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.MainFormOld.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.StringBuilderTool.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.TemplateCodeGenerator.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.TemplateManage.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.Properties.Resources.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.SqlDBConnection.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.ViewForm.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.SingleCodeGenerator.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.UserControls.QueryResult.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.csproj.GenerateResource.Cache
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.exe.licenses
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.exe
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.pdb
+D:\C#\CodeGenius\CodeGenius\bin\Debug\CodeGenius.DBSchema.dll
+D:\C#\CodeGenius\CodeGenius\bin\Debug\ICSharpCode.TextEditor.dll
+D:\C#\CodeGenius\CodeGenius\bin\Debug\CodeGenius.DBSchema.pdb
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.frm.QueryForm.resources
+D:\C#\CodeGenius\CodeGenius\obj\x86\Debug\CodeGenius.UserControls.ucSelectDB.resources
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\CodeGenius.exe.config
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\CodeGenius.exe
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\CodeGenius.pdb
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\CodeGenius.Entity.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\CodeGenius.Frame.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\DBHelper.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\LibraryGenius.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\MsSqlTree.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\RazorEngine.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\SqlCodeGenerator.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\log4net.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\NPOI.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\NPOI.OOXML.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\Microsoft.Practices.Unity.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\NPOI.OpenXml4Net.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\CodeGenius.Entity.pdb
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\CodeGenius.Frame.pdb
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\DBHelper.pdb
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\LibraryGenius.pdb
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\MsSqlTree.pdb
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\SqlCodeGenerator.pdb
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\NPOI.xml
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\NPOI.OOXML.xml
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\NPOI.OpenXml4Net.xml
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.csprojResolveAssemblyReference.cache
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\Interop.SQLDMO.dll
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.csproj.ResolveComReference.cache
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.AboutBox.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.BatchCodeGenerator.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.BrowseSQLServer.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.frm.QueryForm.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.Splash.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.DBTree.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.Encryption.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.GenerateDBDoc.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.MainFormOld.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.StringBuilderTool.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.TemplateCodeGenerator.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.TemplateManage.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.Properties.Resources.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.SqlDBConnection.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.ViewForm.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.SingleCodeGenerator.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.UserControls.ucSelectDB.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.csproj.GenerateResource.Cache
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.exe.licenses
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.exe
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.pdb
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\CodeGenius.CodeEngine.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\CodeGenius.CodeEngine.pdb
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.MainFormDX.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.UserControls.ucDBExplorer.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.UserControls.ucTemplateManager.resources
+E:\file\CodeGenius V2.0\CodeGenius\obj\x86\Debug\CodeGenius.frmViewTableData.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.csprojResolveAssemblyReference.cache
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.csproj.ResolveComReference.cache
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.AboutBox.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.frmViewTableData.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.BatchCodeGenerator.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.BrowseSQLServer.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.frmTableProperty.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.frm.QueryForm.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.MainFormDX.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.Splash.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.DBTree.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.Encryption.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.GenerateDBDoc.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.MainFormOld.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.StringBuilderTool.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.TemplateCodeGenerator.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.TemplateManage.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.Properties.Resources.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.SqlDBConnection.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.ViewForm.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.SingleCodeGenerator.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.UserControls.ucDBExplorer.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.UserControls.ucSelectDB.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.UserControls.ucTemplateManager.resources
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.csproj.GenerateResource.Cache
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.exe.licenses
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.exe
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.exe.config
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.exe
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.pdb
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.CodeEngine.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.Entity.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.Frame.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\DBHelper.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\LibraryGenius.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\MsSqlTree.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\RazorEngine.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\SqlCodeGenerator.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\NPOI.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\log4net.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\NPOI.OOXML.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.Unity.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\NPOI.OpenXml4Net.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.CodeEngine.pdb
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.Entity.pdb
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.Frame.pdb
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\DBHelper.pdb
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\LibraryGenius.pdb
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\MsSqlTree.pdb
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\SqlCodeGenerator.pdb
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\NPOI.xml
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\NPOI.OOXML.xml
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\NPOI.OpenXml4Net.xml
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\程序\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.pdb
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.exe.config
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.csproj.ResolveComReference.cache
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.exe
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.pdb
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.exe
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.pdb
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.CodeEngine.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.Entity.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.Frame.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\DBHelper.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\LibraryGenius.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\MsSqlTree.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\RazorEngine.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\SqlCodeGenerator.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\NPOI.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\log4net.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\NPOI.OOXML.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.Unity.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\NPOI.OpenXml4Net.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.CodeEngine.pdb
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.Entity.pdb
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.Frame.pdb
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\DBHelper.pdb
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\LibraryGenius.pdb
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\MsSqlTree.pdb
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\SqlCodeGenerator.pdb
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\NPOI.xml
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\NPOI.OOXML.xml
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\NPOI.OpenXml4Net.xml
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.csprojResolveAssemblyReference.cache
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.AboutBox.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.frmViewTableData.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.BatchCodeGenerator.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.BrowseSQLServer.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.frmTableProperty.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.frm.QueryForm.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.MainFormDX.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.Splash.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.DBTree.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.Encryption.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.GenerateDBDoc.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.MainFormOld.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.StringBuilderTool.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.TemplateCodeGenerator.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.TemplateManage.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.Properties.Resources.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.SqlDBConnection.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.ViewForm.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.SingleCodeGenerator.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.UserControls.ucDBExplorer.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.UserControls.ucSelectDB.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.UserControls.ucTemplateManager.resources
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.csproj.GenerateResource.Cache
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.exe.licenses
+E:\MyCode\CodeGenius V2.1\CodeGenius\obj\x86\Debug\CodeGenius.EncodeConvert.resources

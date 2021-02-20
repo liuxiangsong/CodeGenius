@@ -1,0 +1,50 @@
+<#@ template language="c#" HostSpecific="True" #>
+<#@ output extension= ".txt" #> 
+<#
+	TemplateHost host = (TemplateHost)(Host);  
+#>
+using System;
+using System.Collections.Generic;
+using System.Linq; 
+
+using LauFrame.Core;
+using LauFrame.Core.Attributes;
+
+<#	string str=host.NameSpace+".Entity."+host.Folder;
+	Write("namespace "+str.Trim('.'));
+#>
+{
+	/// <summary>
+	/// <#= host.TableName #>Info       
+	/// </summary>
+	[Serializable]
+        [Table("<#= host.TableName#>")]
+        public partial class <#=host.TableName#>Info:BaseEntity
+	{
+         #region Field Members
+	<# foreach(ColumnSchema info in host.Columns)
+	      {#>
+		///<summary>
+		///<#= info.Description #>
+		///<summary>
+		[NonSerialized]
+		public const string F_<#= info.Name #> = "<#= info.Name #>";
+            <#}#>
+	 #endregion
+
+	#region Property
+	<# foreach(ColumnSchema info in host.Columns)
+	      {#>
+	        ///<summary>
+		///<#= info.Description+"    "+info.FullDataType #>
+		///<summary>
+		[Column(ColumnNote ="<#= info.Description #>"<# if(info.IsPrimaryKey){ Write(", IsPrimaryKey = true");} if(info.IsIdentity){ Write(", IsIdentity = true");} #>)]
+		public <#= TypeHelper.SqlTypeStringToCsharpNullableTypeString(info.DataType)+" "+info.Name #>
+		{
+			get;
+			set;
+		}
+	    <#}#>
+	#endregion
+        }
+} 

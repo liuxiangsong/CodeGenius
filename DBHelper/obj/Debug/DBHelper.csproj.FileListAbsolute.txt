@@ -1,0 +1,52 @@
+E:\C#\CodeGenius\DataBaseHelper\bin\Debug\DBHelper.dll
+E:\C#\CodeGenius\DataBaseHelper\bin\Debug\DBHelper.pdb
+E:\C#\CodeGenius\DataBaseHelper\obj\Debug\Interop.SQLDMO.dll
+E:\C#\CodeGenius\DataBaseHelper\obj\Debug\DBHelper.csproj.ResolveComReference.cache
+E:\C#\CodeGenius\DataBaseHelper\obj\Debug\DBHelper.dll
+E:\C#\CodeGenius\DataBaseHelper\obj\Debug\DBHelper.pdb
+E:\file\CodeGenius\DataBaseHelper\bin\Debug\DBHelper.dll
+E:\file\CodeGenius\DataBaseHelper\bin\Debug\DBHelper.pdb
+E:\file\CodeGenius\DataBaseHelper\obj\Debug\ResolveAssemblyReference.cache
+E:\file\CodeGenius\DataBaseHelper\obj\Debug\Interop.SQLDMO.dll
+E:\file\CodeGenius\DataBaseHelper\obj\Debug\DBHelper.csproj.ResolveComReference.cache
+E:\file\CodeGenius\DataBaseHelper\obj\Debug\DBHelper.dll
+E:\file\CodeGenius\DataBaseHelper\obj\Debug\DBHelper.pdb
+D:\C#\CodeGenius\DataBaseHelper\bin\Debug\DBHelper.dll
+D:\C#\CodeGenius\DataBaseHelper\bin\Debug\DBHelper.pdb
+D:\C#\CodeGenius\DataBaseHelper\obj\Debug\Interop.SQLDMO.dll
+D:\C#\CodeGenius\DataBaseHelper\obj\Debug\DBHelper.csproj.ResolveComReference.cache
+D:\C#\CodeGenius\DataBaseHelper\obj\Debug\DBHelper.dll
+D:\C#\CodeGenius\DataBaseHelper\obj\Debug\DBHelper.pdb
+E:\file\CodeGenius V2.0\DataBaseHelper\bin\Debug\DBHelper.dll
+E:\file\CodeGenius V2.0\DataBaseHelper\bin\Debug\DBHelper.pdb
+E:\file\CodeGenius V2.0\DataBaseHelper\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\file\CodeGenius V2.0\DataBaseHelper\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\file\CodeGenius V2.0\DataBaseHelper\bin\Debug\Microsoft.Practices.Unity.dll
+E:\file\CodeGenius V2.0\DataBaseHelper\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\file\CodeGenius V2.0\DataBaseHelper\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\file\CodeGenius V2.0\DataBaseHelper\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\file\CodeGenius V2.0\DataBaseHelper\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\file\CodeGenius V2.0\DataBaseHelper\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\file\CodeGenius V2.0\DataBaseHelper\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\file\CodeGenius V2.0\DataBaseHelper\obj\Debug\Interop.SQLDMO.dll
+E:\file\CodeGenius V2.0\DataBaseHelper\obj\Debug\DBHelper.csproj.ResolveComReference.cache
+E:\file\CodeGenius V2.0\DataBaseHelper\obj\Debug\DBHelper.dll
+E:\file\CodeGenius V2.0\DataBaseHelper\obj\Debug\DBHelper.pdb
+E:\file\CodeGenius V2.0\DBHelper\bin\Debug\DBHelper.dll
+E:\file\CodeGenius V2.0\DBHelper\bin\Debug\DBHelper.pdb
+E:\file\CodeGenius V2.0\DBHelper\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\file\CodeGenius V2.0\DBHelper\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\file\CodeGenius V2.0\DBHelper\bin\Debug\Microsoft.Practices.Unity.dll
+E:\file\CodeGenius V2.0\DBHelper\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\file\CodeGenius V2.0\DBHelper\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\file\CodeGenius V2.0\DBHelper\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\file\CodeGenius V2.0\DBHelper\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\file\CodeGenius V2.0\DBHelper\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\file\CodeGenius V2.0\DBHelper\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\file\CodeGenius V2.0\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+E:\file\CodeGenius V2.0\DBHelper\obj\Debug\Interop.SQLDMO.dll
+E:\file\CodeGenius V2.0\DBHelper\obj\Debug\DBHelper.csproj.ResolveComReference.cache
+E:\file\CodeGenius V2.0\DBHelper\obj\Debug\DBHelper.dll
+E:\file\CodeGenius V2.0\DBHelper\obj\Debug\DBHelper.pdb
+E:\程序\CodeGenius V2.1\DBHelper\obj\Debug\DBHelper.csprojResolveAssemblyReference.cache
+E:\程序\CodeGenius V2.1\DBHelper\obj\Debug\DBHelper.dll

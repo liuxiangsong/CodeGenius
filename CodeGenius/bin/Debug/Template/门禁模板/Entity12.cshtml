@@ -1,0 +1,56 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+using Framework;
+using SystemPlugins.Entity;
+using LFACS.BLL;
+using System.Data.Common;
+using CommonLibrary;
+using System.Data.SqlClient;
+
+namespace @{var strNamespace=@Model.tableInfo.NameSpace+".Entity."+@Model.tableInfo.Folder;} @strNamespace.Trim('.')
+{
+	/// <summary>
+	/// @{@Model.tableInfo.TableName}Info :实体类 
+	/// </summary>
+	[Serializable]
+	[Table("@Model.tableInfo.TableName")]
+	public partial class @{@Model.tableInfo.TableName}Info:BaseEntity
+	{
+		#region Field Members
+	@foreach (ColumnSchema info in @Model.tableInfo.Columns)
+	{<text>
+		///<summary>
+		/// @info.Description
+		///</summary>
+		[NonSerialized]
+		public const string F_@{@info.Name} = "@info.Name";	
+	</text>}  
+		#endregion
+		
+		#region Property
+	@foreach (ColumnSchema info in @Model.tableInfo.Columns)
+    {<text>
+		///<summary>
+		/// @info.Description  @info.FullDataType
+		///</summary>		
+@{
+var fieldAttr="[Column(\""+@info.Name+"\", ColumnAlias = \""+@info.Description+"\""; 
+if(@info.IsPrimaryKey)
+	fieldAttr+=", IsPrimaryKey = true";
+if(@info.IsIdentity)
+	fieldAttr+=", IsIdentity = true";
+fieldAttr+=")]";
+}				 
+		@fieldAttr
+		public @TypeHelper.SqlTypeStringToCsharpNullableTypeString(@info.DataType) @info.Name
+		{
+			get;
+			set;
+		}</text>				
+	}
+		#endregion	
+	}
+}

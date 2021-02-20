@@ -1,0 +1,21 @@
+<#@ template language="c#" HostSpecific="True" #>
+<#@ output extension= ".txt" #> 
+<#
+	TemplateHost host = (TemplateHost)(Host);  
+#>
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+using Framework;
+using <#= host.NameSpace #>.Entity;
+
+<#	string str=host.NameSpace+".DAL."+host.Folder;
+	Write("namespace "+str.Trim('.'));
+#>
+{
+        public class <#= host.TableName #>:BaseDAL<<#= host.TableName #>Info>
+	{
+        }
+} 

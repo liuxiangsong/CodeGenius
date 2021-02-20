@@ -1,0 +1,16 @@
+E:\file\CodeGenius V2.0\DBHelper\bin\Release\DBHelper.dll
+E:\file\CodeGenius V2.0\DBHelper\bin\Release\DBHelper.pdb
+E:\file\CodeGenius V2.0\DBHelper\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\file\CodeGenius V2.0\DBHelper\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\file\CodeGenius V2.0\DBHelper\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\file\CodeGenius V2.0\DBHelper\bin\Release\Microsoft.Practices.Unity.dll
+E:\file\CodeGenius V2.0\DBHelper\bin\Release\Microsoft.Practices.Unity.Interception.dll
+E:\file\CodeGenius V2.0\DBHelper\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\file\CodeGenius V2.0\DBHelper\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\file\CodeGenius V2.0\DBHelper\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+E:\file\CodeGenius V2.0\DBHelper\bin\Release\Microsoft.Practices.Unity.pdb
+E:\file\CodeGenius V2.0\DBHelper\bin\Release\Microsoft.Practices.Unity.Interception.pdb
+E:\file\CodeGenius V2.0\DBHelper\obj\Release\Interop.SQLDMO.dll
+E:\file\CodeGenius V2.0\DBHelper\obj\Release\DBHelper.csproj.ResolveComReference.cache
+E:\file\CodeGenius V2.0\DBHelper\obj\Release\DBHelper.dll
+E:\file\CodeGenius V2.0\DBHelper\obj\Release\DBHelper.pdb

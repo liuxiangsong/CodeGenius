@@ -1,0 +1,22 @@
+﻿<#@ template debug="ture" hostspecific="True" language="C#" #> 
+<#@ output extension=".cs" #>
+
+<#
+	TemplateHost host = (TemplateHost)(Host);  
+#>
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+using Framework;
+
+<#
+	string str=host.NameSpace+".Entity."+host.Folder;
+	WriteLine("namespace "+str.Trim('.'));
+#>
+{
+	/// <summary>
+
+}

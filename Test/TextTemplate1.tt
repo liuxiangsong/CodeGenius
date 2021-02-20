@@ -1,0 +1,45 @@
+﻿<#@ template  language="C#"    debug="true" hostspecific="false"#> 
+<#@ output extension=".txt" #>
+
+
+ namespace Artech.CodeGeneration   
+  {   
+     class Program  
+	     {       
+		         static void Main(string[] args)  
+				         {      
+						     <#  		
+				             foreach(var person in this.InitializePersonList()) 
+				               {  
+							     #>  
+	
+	      Console.WriteLine("Hello, {0}","<#=  person#>"); 
+		              <#  } #>  
+
+
+					  
+
+					  <#
+					   for(int i=0;i<3;i++)
+						{  #>
+							<#=i#>
+				    <#  } #>
+								
+
+
+
+
+
+
+
+
+
+								 }  
+												       }   }  
+													    <#+   
+				
+				  public string[] InitializePersonList()  
+				     {  
+					    return new string[]{"Foo","Bar","Baz"};  
+						     } 
+							  #>

@@ -1,0 +1,13 @@
+E:\file\CodeGenius V2.0\LibraryGenius\bin\Release\LibraryGenius.dll
+E:\file\CodeGenius V2.0\LibraryGenius\bin\Release\LibraryGenius.pdb
+E:\file\CodeGenius V2.0\LibraryGenius\bin\Release\log4net.dll
+E:\file\CodeGenius V2.0\LibraryGenius\bin\Release\NPOI.dll
+E:\file\CodeGenius V2.0\LibraryGenius\bin\Release\NPOI.OOXML.dll
+E:\file\CodeGenius V2.0\LibraryGenius\bin\Release\NPOI.OpenXml4Net.dll
+E:\file\CodeGenius V2.0\LibraryGenius\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\file\CodeGenius V2.0\LibraryGenius\bin\Release\NPOI.OpenXmlFormats.dll
+E:\file\CodeGenius V2.0\LibraryGenius\bin\Release\NPOI.xml
+E:\file\CodeGenius V2.0\LibraryGenius\bin\Release\NPOI.OOXML.xml
+E:\file\CodeGenius V2.0\LibraryGenius\bin\Release\NPOI.OpenXml4Net.xml
+E:\file\CodeGenius V2.0\LibraryGenius\obj\Release\LibraryGenius.dll
+E:\file\CodeGenius V2.0\LibraryGenius\obj\Release\LibraryGenius.pdb

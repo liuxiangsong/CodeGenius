@@ -1,0 +1,25 @@
+﻿<#@ template language="c#" HostSpecific="True" #>
+<#@ output extension= ".txt" #> 
+<#
+	TemplateHost host = (TemplateHost)(Host);  
+#>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title><#= host.TableName #></title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/jquery")
+
+    <script src="~/ViewScript/<#= host.TableName #>.js"></script>
+</head>
+<body>
+    
+</body>
+</html>
+

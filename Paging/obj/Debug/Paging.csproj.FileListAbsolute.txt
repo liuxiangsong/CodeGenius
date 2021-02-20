@@ -1,0 +1,37 @@
+F:\mywork\CodeGenius\Paging\bin\Debug\Paging.dll
+F:\mywork\CodeGenius\Paging\bin\Debug\Paging.pdb
+F:\mywork\CodeGenius\Paging\obj\Debug\ResolveAssemblyReference.cache
+F:\mywork\CodeGenius\Paging\obj\Debug\Paging.PagingControl.resources
+F:\mywork\CodeGenius\Paging\obj\Debug\Paging.Properties.Resources.resources
+F:\mywork\CodeGenius\Paging\obj\Debug\GenerateResource.read.1.tlog
+F:\mywork\CodeGenius\Paging\obj\Debug\GenerateResource.write.1.tlog
+F:\mywork\CodeGenius\Paging\obj\Debug\Paging.dll.licenses
+F:\mywork\CodeGenius\Paging\obj\Debug\Paging.dll
+F:\mywork\CodeGenius\Paging\obj\Debug\Paging.pdb
+E:\C#\CodeGenius\Paging\bin\Debug\Paging.dll
+E:\C#\CodeGenius\Paging\bin\Debug\Paging.pdb
+E:\C#\CodeGenius\Paging\obj\Debug\Paging.PagingControl.resources
+E:\C#\CodeGenius\Paging\obj\Debug\Paging.Properties.Resources.resources
+E:\C#\CodeGenius\Paging\obj\Debug\Paging.csproj.GenerateResource.Cache
+E:\C#\CodeGenius\Paging\obj\Debug\Paging.dll.licenses
+E:\C#\CodeGenius\Paging\obj\Debug\Paging.dll
+E:\C#\CodeGenius\Paging\obj\Debug\Paging.pdb
+E:\C#\CodeGenius\Paging\obj\Debug\Paging.csprojResolveAssemblyReference.cache
+D:\C#\CodeGenius\Paging\bin\Debug\Paging.dll
+D:\C#\CodeGenius\Paging\bin\Debug\Paging.pdb
+D:\C#\CodeGenius\Paging\obj\Debug\Paging.csprojResolveAssemblyReference.cache
+D:\C#\CodeGenius\Paging\obj\Debug\Paging.PagingControl.resources
+D:\C#\CodeGenius\Paging\obj\Debug\Paging.Properties.Resources.resources
+D:\C#\CodeGenius\Paging\obj\Debug\Paging.csproj.GenerateResource.Cache
+D:\C#\CodeGenius\Paging\obj\Debug\Paging.dll.licenses
+D:\C#\CodeGenius\Paging\obj\Debug\Paging.dll
+D:\C#\CodeGenius\Paging\obj\Debug\Paging.pdb
+E:\file\CodeGenius V2.0\Paging\bin\Debug\Paging.dll
+E:\file\CodeGenius V2.0\Paging\bin\Debug\Paging.pdb
+E:\file\CodeGenius V2.0\Paging\obj\Debug\Paging.PagingControl.resources
+E:\file\CodeGenius V2.0\Paging\obj\Debug\Paging.Properties.Resources.resources
+E:\file\CodeGenius V2.0\Paging\obj\Debug\Paging.csproj.GenerateResource.Cache
+E:\file\CodeGenius V2.0\Paging\obj\Debug\Paging.dll.licenses
+E:\file\CodeGenius V2.0\Paging\obj\Debug\Paging.dll
+E:\file\CodeGenius V2.0\Paging\obj\Debug\Paging.pdb
+E:\file\CodeGenius V2.0\Paging\obj\Debug\Paging.csprojResolveAssemblyReference.cache

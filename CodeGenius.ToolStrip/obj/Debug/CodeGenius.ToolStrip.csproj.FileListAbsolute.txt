@@ -1,0 +1,47 @@
+E:\file\CodeGenius\CodeGenius.ToolStrip\obj\Debug\CodeGenius.ToolStrip.csprojResolveAssemblyReference.cache
+E:\file\CodeGenius\CodeGenius.ToolStrip\bin\Debug\CodeGenius.ToolStrip.dll
+E:\file\CodeGenius\CodeGenius.ToolStrip\bin\Debug\CodeGenius.ToolStrip.pdb
+E:\file\CodeGenius\CodeGenius.ToolStrip\bin\Debug\CodeGenius.Component.dll
+E:\file\CodeGenius\CodeGenius.ToolStrip\bin\Debug\CodeGenius.Frame.dll
+E:\file\CodeGenius\CodeGenius.ToolStrip\bin\Debug\CodeGeniusEntity.dll
+E:\file\CodeGenius\CodeGenius.ToolStrip\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\file\CodeGenius\CodeGenius.ToolStrip\bin\Debug\LibraryGenius.dll
+E:\file\CodeGenius\CodeGenius.ToolStrip\bin\Debug\CodeGenius.Frame.pdb
+E:\file\CodeGenius\CodeGenius.ToolStrip\bin\Debug\CodeGenius.Component.pdb
+E:\file\CodeGenius\CodeGenius.ToolStrip\bin\Debug\CodeGeniusEntity.pdb
+E:\file\CodeGenius\CodeGenius.ToolStrip\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+E:\file\CodeGenius\CodeGenius.ToolStrip\bin\Debug\LibraryGenius.pdb
+E:\file\CodeGenius\CodeGenius.ToolStrip\obj\Debug\CodeGenius.ToolStrip.dll
+E:\file\CodeGenius\CodeGenius.ToolStrip\obj\Debug\CodeGenius.ToolStrip.pdb
+D:\C#\CodeGenius\CodeGenius.ToolStrip\bin\Debug\CodeGenius.ToolStrip.dll
+D:\C#\CodeGenius\CodeGenius.ToolStrip\bin\Debug\CodeGenius.ToolStrip.pdb
+D:\C#\CodeGenius\CodeGenius.ToolStrip\bin\Debug\CodeGenius.Component.dll
+D:\C#\CodeGenius\CodeGenius.ToolStrip\bin\Debug\CodeGenius.Frame.dll
+D:\C#\CodeGenius\CodeGenius.ToolStrip\bin\Debug\CodeGeniusEntity.dll
+D:\C#\CodeGenius\CodeGenius.ToolStrip\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\C#\CodeGenius\CodeGenius.ToolStrip\bin\Debug\LibraryGenius.dll
+D:\C#\CodeGenius\CodeGenius.ToolStrip\bin\Debug\CodeGenius.Frame.pdb
+D:\C#\CodeGenius\CodeGenius.ToolStrip\bin\Debug\CodeGenius.Component.pdb
+D:\C#\CodeGenius\CodeGenius.ToolStrip\bin\Debug\CodeGeniusEntity.pdb
+D:\C#\CodeGenius\CodeGenius.ToolStrip\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+D:\C#\CodeGenius\CodeGenius.ToolStrip\bin\Debug\LibraryGenius.pdb
+D:\C#\CodeGenius\CodeGenius.ToolStrip\obj\Debug\CodeGenius.ToolStrip.csprojResolveAssemblyReference.cache
+D:\C#\CodeGenius\CodeGenius.ToolStrip\obj\Debug\CodeGenius.ToolStrip.dll
+D:\C#\CodeGenius\CodeGenius.ToolStrip\obj\Debug\CodeGenius.ToolStrip.pdb
+D:\C#\CodeGenius\CodeGenius\bin\Debug\CodeGenius.ToolStrip.dll
+D:\C#\CodeGenius\CodeGenius\bin\Debug\CodeGenius.ToolStrip.pdb
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\CodeGenius.ToolStrip.dll
+E:\file\CodeGenius V2.0\CodeGenius\bin\Debug\CodeGenius.ToolStrip.pdb
+E:\file\CodeGenius V2.0\CodeGenius.ToolStrip\obj\Debug\CodeGenius.ToolStrip.csprojResolveAssemblyReference.cache
+E:\file\CodeGenius V2.0\CodeGenius.ToolStrip\obj\Debug\CodeGenius.ToolStrip.dll
+E:\file\CodeGenius V2.0\CodeGenius.ToolStrip\obj\Debug\CodeGenius.ToolStrip.pdb
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.ToolStrip.dll
+E:\程序\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.ToolStrip.pdb
+E:\程序\CodeGenius V2.1\CodeGenius.ToolStrip\obj\Debug\CodeGenius.ToolStrip.csprojResolveAssemblyReference.cache
+E:\程序\CodeGenius V2.1\CodeGenius.ToolStrip\obj\Debug\CodeGenius.ToolStrip.dll
+E:\程序\CodeGenius V2.1\CodeGenius.ToolStrip\obj\Debug\CodeGenius.ToolStrip.pdb
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.ToolStrip.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius\bin\Debug\CodeGenius.ToolStrip.pdb
+E:\MyCode\CodeGenius V2.1\CodeGenius.ToolStrip\obj\Debug\CodeGenius.ToolStrip.csprojResolveAssemblyReference.cache
+E:\MyCode\CodeGenius V2.1\CodeGenius.ToolStrip\obj\Debug\CodeGenius.ToolStrip.dll
+E:\MyCode\CodeGenius V2.1\CodeGenius.ToolStrip\obj\Debug\CodeGenius.ToolStrip.pdb

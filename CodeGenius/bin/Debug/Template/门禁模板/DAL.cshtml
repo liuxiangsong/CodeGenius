@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+using Framework;
+using @{@Model.tableInfo.NameSpace}.Entity;
+
+namespace @{var strNamespace=@Model.tableInfo.NameSpace+".DAL."+@Model.tableInfo.Folder;} @strNamespace.Trim('.')
+{ 
+    public class @{@Model.tableInfo.TableName}:BaseDAL<@{@Model.tableInfo.TableName}Info>
+	{	
+	}
+}

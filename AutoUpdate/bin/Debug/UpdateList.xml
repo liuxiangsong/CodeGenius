@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<AutoUpdater>
+  <Description>Application autoUpdate</Description>
+  <Updater>
+    <Url>\\192.168.5.109\ShareFile\2014</Url>
+    <LastUpdateTime>2006-2-7</LastUpdateTime>
+  </Updater>
+  <Application ID="ItemSoft">
+    <EntryPoint>ItemSoft.exe</EntryPoint>
+    <Location>.</Location>
+    <Version>2.2.0.0</Version>
+  </Application>
+  <Files> 
+  </Files>
+</AutoUpdater>

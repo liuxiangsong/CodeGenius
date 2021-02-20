@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B6A8E22D-F0A9-4810-9F62-95601B67B18D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CodeGenius</RootNamespace>
+    <AssemblyName>CodeGenius</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>CodeGenius.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v12.2.Core, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v12.2, Version=12.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="ICSharpCode.TextEditor, Version=2.0.0.922, Culture=neutral, PublicKeyToken=4d61825e8dd49f1a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Lau\Desktop\icsharpcode.texteditor_2.2\ICSharpCode.TextEditor_2.2\Sample\bin\Debug\ICSharpCode.TextEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualStudio.TextTemplating.10.0, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Test\bin\Debug\Microsoft.VisualStudio.TextTemplating.10.0.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.TextTemplating.Interfaces.10.0, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\CodeGenius.CodeEngine\bin\Debug\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll</HintPath>
+    </Reference>
+    <Reference Include="RazorEngine">
+      <HintPath>..\Test\bin\Debug\RazorEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking">
+      <HintPath>..\..\..\..\file\DockPanel_Src\DockSample\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox.designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\EncodeConvert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\EncodeConvert.Designer.cs">
+      <DependentUpon>EncodeConvert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmViewTableData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmViewTableData.Designer.cs">
+      <DependentUpon>frmViewTableData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\BaseMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\BaseMainForm.Designer.cs">
+      <DependentUpon>BaseMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\BatchCodeGenerator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\BatchCodeGenerator.Designer.cs">
+      <DependentUpon>BatchCodeGenerator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\BrowseSQLServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\BrowseSQLServer.Designer.cs">
+      <DependentUpon>BrowseSQLServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\BaseChildForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\BaseChildForm.Designer.cs">
+      <DependentUpon>BaseChildForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\frmTableProperty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\frmTableProperty.Designer.cs">
+      <DependentUpon>frmTableProperty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\QueryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\QueryForm.Designer.cs">
+      <DependentUpon>QueryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainFormDX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFormDX.Designer.cs">
+      <DependentUpon>MainFormDX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DBTree.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DBTree.Designer.cs">
+      <DependentUpon>DBTree.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\TemplateCodeGenerator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\TemplateCodeGenerator.Designer.cs">
+      <DependentUpon>TemplateCodeGenerator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\TemplateManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\TemplateManage.Designer.cs">
+      <DependentUpon>TemplateManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistoryHelper.cs" />
+    <Compile Include="Methods.cs" />
+    <Compile Include="CSharp\LFThreeTier.cs" />
+    <Compile Include="CSharp\SQLHelper.cs" />
+    <Compile Include="frm\Encryption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\Encryption.Designer.cs">
+      <DependentUpon>Encryption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\GenerateDBDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\GenerateDBDoc.Designer.cs">
+      <DependentUpon>GenerateDBDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\MainFormOld.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\MainFormOld.Designer.cs">
+      <DependentUpon>MainFormOld.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="frm\SqlDBConnection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\SqlDBConnection.Designer.cs">
+      <DependentUpon>SqlDBConnection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\ViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\ViewForm.Designer.cs">
+      <DependentUpon>ViewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\SingleCodeGenerator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\SingleCodeGenerator.Designer.cs">
+      <DependentUpon>SingleCodeGenerator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm\StringBuilderTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm\StringBuilderTool.Designer.cs">
+      <DependentUpon>StringBuilderTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucDBExplorer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucDBExplorer.Designer.cs">
+      <DependentUpon>ucDBExplorer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucSelectDB.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucSelectDB.Designer.cs">
+      <DependentUpon>ucSelectDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucTemplateManager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucTemplateManager.Designer.cs">
+      <DependentUpon>ucTemplateManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VB\LFTwoTier.cs" />
+    <EmbeddedResource Include="AboutBox.resx">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\EncodeConvert.resx">
+      <DependentUpon>EncodeConvert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmViewTableData.resx">
+      <DependentUpon>frmViewTableData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\BatchCodeGenerator.resx">
+      <DependentUpon>BatchCodeGenerator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\BrowseSQLServer.resx">
+      <DependentUpon>BrowseSQLServer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\frmTableProperty.resx">
+      <DependentUpon>frmTableProperty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\QueryForm.resx">
+      <DependentUpon>QueryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFormDX.resx">
+      <DependentUpon>MainFormDX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\DBTree.resx">
+      <DependentUpon>DBTree.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\Encryption.resx">
+      <DependentUpon>Encryption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\GenerateDBDoc.resx">
+      <DependentUpon>GenerateDBDoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\MainFormOld.resx">
+      <DependentUpon>MainFormOld.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\StringBuilderTool.resx">
+      <DependentUpon>StringBuilderTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\TemplateCodeGenerator.resx">
+      <DependentUpon>TemplateCodeGenerator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\TemplateManage.resx">
+      <DependentUpon>TemplateManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="frm\SqlDBConnection.resx">
+      <DependentUpon>SqlDBConnection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\ViewForm.resx">
+      <DependentUpon>ViewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm\SingleCodeGenerator.resx">
+      <DependentUpon>SingleCodeGenerator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\ucDBExplorer.resx">
+      <DependentUpon>ucDBExplorer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\ucSelectDB.resx">
+      <DependentUpon>ucSelectDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\ucTemplateManager.resx">
+      <DependentUpon>ucTemplateManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Template\Entity.tt">
+      <LastGenOutput>Entity.cs</LastGenOutput>
+    </None>
+    <None Include="Template\ORMModel.cshtml" />
+    <None Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Add.png" />
+    <Content Include="CodeGenius.ico" />
+    <None Include="Images\CodeGenius.png" />
+    <Content Include="Images\DataBase.ico" />
+    <None Include="Images\Delete.png" />
+    <None Include="Images\Edit.png" />
+    <Content Include="Images\Excute.png" />
+    <None Include="Images\File.png" />
+    <None Include="Images\Folder %282%29.png" />
+    <None Include="Images\Exit_16.png" />
+    <Content Include="Images\Folder.ico" />
+    <None Include="Images\Info_16.png" />
+    <Content Include="Images\Loading.ico" />
+    <Content Include="Images\Locker.ico" />
+    <Content Include="Images\Logo.ico" />
+    <Content Include="Images\Procedure.ico" />
+    <None Include="Images\refresh.gif" />
+    <Content Include="Images\Server.png" />
+    <Content Include="Images\sqlBanner.png" />
+    <Content Include="Images\Table.ico" />
+    <Content Include="Images\View.png" />
+    <None Include="Images\Window_16.png" />
+    <Content Include="Images\Word_Large.ico" />
+    <Content Include="RegEx.txt" />
+    <Content Include="Resources\DBDisconnect%281%29.png" />
+    <None Include="Resources\noconnect.jpg" />
+    <None Include="Resources\noconnect.gif" />
+    <None Include="Resources\Save.ico" />
+    <None Include="Resources\Word.ico" />
+    <None Include="Resources\Disconnect%281%29.png" />
+    <None Include="Resources\sqlBanner.png" />
+    <None Include="Resources\more.png" />
+    <None Include="Resources\DBDisconnect.png" />
+    <None Include="Resources\DBConnect.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="SQLDMO">
+      <Guid>{10010001-E260-11CF-AE68-00AA004A34D5}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CodeGenius.CodeEngine\CodeGenius.CodeEngine.csproj">
+      <Project>{89DD684D-4E20-43E4-814A-8F932B7FD4FC}</Project>
+      <Name>CodeGenius.CodeEngine</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CodeGenius.Entity\CodeGenius.Entity.csproj">
+      <Project>{8B43AE80-0B4E-4BF2-AE3E-6E212CF5DBFC}</Project>
+      <Name>CodeGenius.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CodeGenius.Frame\CodeGenius.Frame.csproj">
+      <Project>{83185C9A-0D78-4B7C-84CC-87BD8E629B44}</Project>
+      <Name>CodeGenius.Frame</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DBHelper\DBHelper.csproj">
+      <Project>{BF745836-5BB0-4EAE-BDD6-88AABDCCE4C5}</Project>
+      <Name>DBHelper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibraryGenius\LibraryGenius.csproj">
+      <Project>{435BD4D6-ED5A-49F3-A9DC-AB2DF8C440C2}</Project>
+      <Name>LibraryGenius</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MsSqlTree\MsSqlTree.csproj">
+      <Project>{3EBAC5A5-3D75-4BA8-BCA9-7DA895BB5B20}</Project>
+      <Name>MsSqlTree</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SqlCodeGenerator\SqlCodeGenerator.csproj">
+      <Project>{6217D764-21D1-44FE-93C9-80274B6581D1}</Project>
+      <Name>SqlCodeGenerator</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

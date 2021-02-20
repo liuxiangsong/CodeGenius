@@ -1,0 +1,25 @@
+<#@ template language="c#" HostSpecific="True" #>
+<#@ output extension= ".txt" #> 
+<#
+	TemplateHost host = (TemplateHost)(Host);  
+#>
+using LauFrame.Core; 
+using <#= host.NameSpace #>.BLL; 
+using <#= host.NameSpace #>.Entity; 
+using <#= host.NameSpace #>.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+using Util;
+
+<#	string str=host.NameSpace+".Controllers."+host.Folder;
+	Write("namespace "+str.Trim('.'));
+#>
+{
+        public class <#= host.TableName #>Controller:LogicController<<#= host.TableName #>,<#= host.TableName #>Info>
+	{
+ 		 
+        }
+} 

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3EBAC5A5-3D75-4BA8-BCA9-7DA895BB5B20}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MsSqlTree</RootNamespace>
+    <AssemblyName>MsSqlTree</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="TreeNode\DataBase\DataBase_DataTables_Node.cs" />
+    <Compile Include="TreeNode\DataBase\DataBase_DataTable_Node.cs" />
+    <Compile Include="TreeNode\DataBase\DataBase_DataViews_Node.cs" />
+    <Compile Include="TreeNode\DataBase\DataBase_DataView_Node.cs" />
+    <Compile Include="TreeNode\DataBase\DataBase_Programmability_Node.cs" />
+    <Compile Include="TreeNode\Programmability\Programmability_Parameters_Node.cs" />
+    <Compile Include="TreeNode\Programmability\Programmability_Procedures_Node.cs" />
+    <Compile Include="TreeNode\Programmability\Programmability_SystemProcedures_Node.cs" />
+    <Compile Include="TreeNode\DataBase\DataBase_SystemTables_Node.cs" />
+    <Compile Include="TreeNode\DataBase\DataBase_SystemViews_Node.cs" />
+    <Compile Include="TreeNode\DataEngine\DataBases_Node.cs" />
+    <Compile Include="TreeNode\DataEngine\DataBase_Node.cs" />
+    <Compile Include="TreeNode\DataEngine\SystemDataBases_Node.cs" />
+    <Compile Include="TreeNode\DataTable\DataTable_Columns_Node.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TreeNode\DataTable\DataTable_Column_Node.cs" />
+    <Compile Include="TreeNode\DataTable\DataTable_Constraints_Node.cs" />
+    <Compile Include="TreeNode\DataTable\DataTable_Constraint_Node.cs" />
+    <Compile Include="TreeNode\DataTable\DataTable_Indexs_Node.cs" />
+    <Compile Include="TreeNode\DataTable\DataTable_Index_Node.cs" />
+    <Compile Include="TreeNode\DataTable\DataTable_Keys_Node.cs" />
+    <Compile Include="TreeNode\DataTable\DataTable_Key_Node.cs" />
+    <Compile Include="TreeNode\DataTable\DataTable_Triggers_Node.cs" />
+    <Compile Include="TreeNode\DataTable\DataTable_Trigger_Node.cs" />
+    <Compile Include="TreeNode\DataView\DataView_Columns_Node.cs" />
+    <Compile Include="TreeNode\DataView\DataView_Indexs_Node.cs" />
+    <Compile Include="TreeNode\DataView\DataView_Triggers_Node.cs" />
+    <Compile Include="TreeNode\Programmability\Programmability_Parameter_Node.cs" />
+    <Compile Include="TreeNode\Programmability\Programmability_Procedure_Node.cs" />
+    <Compile Include="TreeNode\Server\DataEngine_Node.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CodeGenius.Entity\CodeGenius.Entity.csproj">
+      <Project>{8B43AE80-0B4E-4BF2-AE3E-6E212CF5DBFC}</Project>
+      <Name>CodeGenius.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CodeGenius.Frame\CodeGenius.Frame.csproj">
+      <Project>{83185C9A-0D78-4B7C-84CC-87BD8E629B44}</Project>
+      <Name>CodeGenius.Frame</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibraryGenius\LibraryGenius.csproj">
+      <Project>{435BD4D6-ED5A-49F3-A9DC-AB2DF8C440C2}</Project>
+      <Name>LibraryGenius</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

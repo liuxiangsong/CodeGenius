@@ -1,0 +1,32 @@
+<#@ template language="c#" HostSpecific="True" #>
+<#@ output extension= ".txt" #> 
+<#
+	TemplateHost host = (TemplateHost)(Host);  
+#>
+using LauFrame.Core; 
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web; 
+using <#= host.NameSpace #>.Entity;
+
+<#	string str=host.NameSpace+".BLL."+host.Folder;
+	Write("namespace "+str.Trim('.'));
+#>
+{
+        public class <#= host.TableName #>:BaseBLL<<#= host.TableName #>Info>
+	{
+ 		#region public static <#= host.TableName #> Instance 
+       		private static <#= host.TableName #> m_Instance = null;
+        	public static <#= host.TableName #> Instance
+        	{
+            		get
+            		{
+                		if (m_Instance == null)
+                   			 m_Instance = new <#= host.TableName #>();
+                		return m_Instance;
+            		}
+        	}
+        	#endregion
+        }
+} 

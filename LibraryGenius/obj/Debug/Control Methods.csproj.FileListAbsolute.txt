@@ -1,0 +1,24 @@
+E:\work\My Projects\CodeGenius\Control Methods\bin\Debug\Control Methods.dll
+E:\work\My Projects\CodeGenius\Control Methods\bin\Debug\Control Methods.pdb
+E:\work\My Projects\CodeGenius\Control Methods\obj\Debug\ResolveAssemblyReference.cache
+E:\work\My Projects\CodeGenius\Control Methods\obj\Debug\Control Methods.dll
+E:\work\My Projects\CodeGenius\Control Methods\obj\Debug\Control Methods.pdb
+C:\Users\Administrator\Desktop\CodeGenius\Control Methods\bin\Debug\Control Methods.dll
+C:\Users\Administrator\Desktop\CodeGenius\Control Methods\bin\Debug\Control Methods.pdb
+C:\Users\Administrator\Desktop\CodeGenius\Control Methods\obj\Debug\Control Methods.dll
+C:\Users\Administrator\Desktop\CodeGenius\Control Methods\obj\Debug\Control Methods.pdb
+E:\C#\程序\mywork\CodeGenius\Control Methods\bin\Debug\Control Methods.dll
+E:\C#\程序\mywork\CodeGenius\Control Methods\bin\Debug\Control Methods.pdb
+E:\C#\程序\mywork\CodeGenius\Control Methods\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\程序\mywork\CodeGenius\Control Methods\obj\Debug\Control Methods.dll
+E:\C#\程序\mywork\CodeGenius\Control Methods\obj\Debug\Control Methods.pdb
+C:\Users\13082602\Desktop\mywork\CodeGenius\Control Methods\bin\Debug\Control Methods.dll
+C:\Users\13082602\Desktop\mywork\CodeGenius\Control Methods\bin\Debug\Control Methods.pdb
+C:\Users\13082602\Desktop\mywork\CodeGenius\Control Methods\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\13082602\Desktop\mywork\CodeGenius\Control Methods\obj\Debug\Control Methods.dll
+C:\Users\13082602\Desktop\mywork\CodeGenius\Control Methods\obj\Debug\Control Methods.pdb
+F:\mywork\CodeGenius\Control Methods\bin\Debug\Control Methods.dll
+F:\mywork\CodeGenius\Control Methods\bin\Debug\Control Methods.pdb
+F:\mywork\CodeGenius\Control Methods\obj\Debug\ResolveAssemblyReference.cache
+F:\mywork\CodeGenius\Control Methods\obj\Debug\Control Methods.dll
+F:\mywork\CodeGenius\Control Methods\obj\Debug\Control Methods.pdb

@@ -1,0 +1,40 @@
+E:\work\My Projects\CodeGenius\DataBaseHelper\obj\Debug\ResolveAssemblyReference.cache
+E:\work\My Projects\CodeGenius\DataBaseHelper\bin\Debug\DataBaseHelper.dll
+E:\work\My Projects\CodeGenius\DataBaseHelper\bin\Debug\DataBaseHelper.pdb
+E:\work\My Projects\CodeGenius\DataBaseHelper\obj\Debug\DataBaseHelper.dll
+E:\work\My Projects\CodeGenius\DataBaseHelper\obj\Debug\DataBaseHelper.pdb
+C:\Users\Administrator\Desktop\CodeGenius\DataBaseHelper\bin\Debug\DataBaseHelper.dll
+C:\Users\Administrator\Desktop\CodeGenius\DataBaseHelper\bin\Debug\DataBaseHelper.pdb
+C:\Users\Administrator\Desktop\CodeGenius\DataBaseHelper\obj\Debug\DataBaseHelper.dll
+C:\Users\Administrator\Desktop\CodeGenius\DataBaseHelper\obj\Debug\DataBaseHelper.pdb
+E:\C#\程序\mywork\CodeGenius\DataBaseHelper\bin\Debug\DataBaseHelper.dll
+E:\C#\程序\mywork\CodeGenius\DataBaseHelper\bin\Debug\DataBaseHelper.pdb
+E:\C#\程序\mywork\CodeGenius\DataBaseHelper\obj\Debug\ResolveAssemblyReference.cache
+E:\C#\程序\mywork\CodeGenius\DataBaseHelper\obj\Debug\DataBaseHelper.dll
+E:\C#\程序\mywork\CodeGenius\DataBaseHelper\obj\Debug\DataBaseHelper.pdb
+C:\Users\13082602\Desktop\mywork\CodeGenius\DataBaseHelper\bin\Debug\DataBaseHelper.dll
+C:\Users\13082602\Desktop\mywork\CodeGenius\DataBaseHelper\bin\Debug\DataBaseHelper.pdb
+C:\Users\13082602\Desktop\mywork\CodeGenius\DataBaseHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\13082602\Desktop\mywork\CodeGenius\DataBaseHelper\obj\Debug\DataBaseHelper.dll
+C:\Users\13082602\Desktop\mywork\CodeGenius\DataBaseHelper\obj\Debug\DataBaseHelper.pdb
+C:\Users\13082602\Desktop\mywork\CodeGenius\DataBaseHelper\obj\Debug\Interop.SQLDMO.dll
+C:\Users\13082602\Desktop\mywork\CodeGenius\DataBaseHelper\obj\Debug\DataBaseHelper.csproj.ResolveComReference.cache
+F:\mywork\CodeGenius\DataBaseHelper\bin\Debug\DataBaseHelper.dll
+F:\mywork\CodeGenius\DataBaseHelper\bin\Debug\DataBaseHelper.pdb
+F:\mywork\CodeGenius\DataBaseHelper\obj\Debug\ResolveAssemblyReference.cache
+F:\mywork\CodeGenius\DataBaseHelper\obj\Debug\Interop.SQLDMO.dll
+F:\mywork\CodeGenius\DataBaseHelper\obj\Debug\DataBaseHelper.csproj.ResolveComReference.cache
+F:\mywork\CodeGenius\DataBaseHelper\obj\Debug\DataBaseHelper.dll
+F:\mywork\CodeGenius\DataBaseHelper\obj\Debug\DataBaseHelper.pdb
+C:\Users\Lau\Desktop\CodeGenius\DataBaseHelper\bin\Debug\DataBaseHelper.dll
+C:\Users\Lau\Desktop\CodeGenius\DataBaseHelper\bin\Debug\DataBaseHelper.pdb
+C:\Users\Lau\Desktop\CodeGenius\DataBaseHelper\obj\Debug\Interop.SQLDMO.dll
+C:\Users\Lau\Desktop\CodeGenius\DataBaseHelper\obj\Debug\DataBaseHelper.csproj.ResolveComReference.cache
+C:\Users\Lau\Desktop\CodeGenius\DataBaseHelper\obj\Debug\DataBaseHelper.dll
+C:\Users\Lau\Desktop\CodeGenius\DataBaseHelper\obj\Debug\DataBaseHelper.pdb
+E:\C#\CodeGenius\DataBaseHelper\bin\Debug\DataBaseHelper.dll
+E:\C#\CodeGenius\DataBaseHelper\bin\Debug\DataBaseHelper.pdb
+E:\C#\CodeGenius\DataBaseHelper\obj\Debug\Interop.SQLDMO.dll
+E:\C#\CodeGenius\DataBaseHelper\obj\Debug\DataBaseHelper.csproj.ResolveComReference.cache
+E:\C#\CodeGenius\DataBaseHelper\obj\Debug\DataBaseHelper.dll
+E:\C#\CodeGenius\DataBaseHelper\obj\Debug\DataBaseHelper.pdb

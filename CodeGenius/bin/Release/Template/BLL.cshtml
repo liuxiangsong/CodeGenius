@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+using Framework;
+using @{@Model.tableInfo.NameSpace}.Entity;
+
+namespace @{var strNamespace=@Model.tableInfo.NameSpace+".BLL."+@Model.tableInfo.Folder;} @strNamespace.Trim('.')
+{ 
+    public class @{@Model.tableInfo.TableName}:BaseBLL<@{@Model.tableInfo.TableName}Info>
+	{
+	    public @{@Model.tableInfo.TableName}()
+	    {
+	        base.Init(typeof(@{@Model.tableInfo.TableName}).FullName, typeof(@{@Model.tableInfo.TableName}).Assembly.GetName().Name);
+		baseDal.OnOperationLog += new OperationLogEventHandler(SysOperationLog.OnOperationLog);
+	    } 
+	}
+}

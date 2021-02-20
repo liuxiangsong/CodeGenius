@@ -1,0 +1,136 @@
+C:\Users\13082602\Desktop\mywork\CodeGenius\SqlCodeGenerator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\13082602\Desktop\mywork\CodeGenius\SqlCodeGenerator\bin\Debug\SqlCodeGenerator.dll
+C:\Users\13082602\Desktop\mywork\CodeGenius\SqlCodeGenerator\bin\Debug\SqlCodeGenerator.pdb
+C:\Users\13082602\Desktop\mywork\CodeGenius\SqlCodeGenerator\bin\Debug\DataBaseHelper.dll
+C:\Users\13082602\Desktop\mywork\CodeGenius\SqlCodeGenerator\bin\Debug\DataBaseHelper.pdb
+C:\Users\13082602\Desktop\mywork\CodeGenius\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.dll
+C:\Users\13082602\Desktop\mywork\CodeGenius\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.pdb
+F:\mywork\CodeGenius\SqlCodeGenerator\bin\Debug\SqlCodeGenerator.dll
+F:\mywork\CodeGenius\SqlCodeGenerator\bin\Debug\SqlCodeGenerator.pdb
+F:\mywork\CodeGenius\SqlCodeGenerator\bin\Debug\DataBaseHelper.dll
+F:\mywork\CodeGenius\SqlCodeGenerator\bin\Debug\DataBaseHelper.pdb
+F:\mywork\CodeGenius\SqlCodeGenerator\obj\Debug\ResolveAssemblyReference.cache
+F:\mywork\CodeGenius\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.dll
+F:\mywork\CodeGenius\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.pdb
+F:\mywork\CodeGenius\SqlCodeGenerator\bin\Debug\LibraryGenius.dll
+F:\mywork\CodeGenius\SqlCodeGenerator\bin\Debug\LibraryGenius.pdb
+C:\Users\Lau\Desktop\CodeGenius\SqlCodeGenerator\bin\Debug\SqlCodeGenerator.dll
+C:\Users\Lau\Desktop\CodeGenius\SqlCodeGenerator\bin\Debug\SqlCodeGenerator.pdb
+C:\Users\Lau\Desktop\CodeGenius\SqlCodeGenerator\bin\Debug\DataBaseHelper.dll
+C:\Users\Lau\Desktop\CodeGenius\SqlCodeGenerator\bin\Debug\LibraryGenius.dll
+C:\Users\Lau\Desktop\CodeGenius\SqlCodeGenerator\bin\Debug\LibraryGenius.pdb
+C:\Users\Lau\Desktop\CodeGenius\SqlCodeGenerator\bin\Debug\DataBaseHelper.pdb
+C:\Users\Lau\Desktop\CodeGenius\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Lau\Desktop\CodeGenius\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.dll
+C:\Users\Lau\Desktop\CodeGenius\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.pdb
+E:\C#\CodeGenius\SqlCodeGenerator\bin\Debug\SqlCodeGenerator.dll
+E:\C#\CodeGenius\SqlCodeGenerator\bin\Debug\SqlCodeGenerator.pdb
+E:\C#\CodeGenius\SqlCodeGenerator\bin\Debug\LibraryGenius.dll
+E:\C#\CodeGenius\SqlCodeGenerator\bin\Debug\LibraryGenius.pdb
+E:\C#\CodeGenius\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.csprojResolveAssemblyReference.cache
+E:\C#\CodeGenius\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.dll
+E:\C#\CodeGenius\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.pdb
+E:\C#\CodeGenius\SqlCodeGenerator\bin\Debug\DBHelper.dll
+E:\C#\CodeGenius\SqlCodeGenerator\bin\Debug\DBHelper.pdb
+E:\file\CodeGenius\SqlCodeGenerator\bin\Debug\SqlCodeGenerator.dll
+E:\file\CodeGenius\SqlCodeGenerator\bin\Debug\SqlCodeGenerator.pdb
+E:\file\CodeGenius\SqlCodeGenerator\bin\Debug\DBHelper.dll
+E:\file\CodeGenius\SqlCodeGenerator\bin\Debug\LibraryGenius.dll
+E:\file\CodeGenius\SqlCodeGenerator\bin\Debug\LibraryGenius.pdb
+E:\file\CodeGenius\SqlCodeGenerator\bin\Debug\DBHelper.pdb
+E:\file\CodeGenius\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.dll
+E:\file\CodeGenius\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.pdb
+E:\file\CodeGenius\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.csprojResolveAssemblyReference.cache
+D:\C#\CodeGenius\SqlCodeGenerator\bin\Debug\SqlCodeGenerator.dll
+D:\C#\CodeGenius\SqlCodeGenerator\bin\Debug\SqlCodeGenerator.pdb
+D:\C#\CodeGenius\SqlCodeGenerator\bin\Debug\DBHelper.dll
+D:\C#\CodeGenius\SqlCodeGenerator\bin\Debug\LibraryGenius.dll
+D:\C#\CodeGenius\SqlCodeGenerator\bin\Debug\LibraryGenius.pdb
+D:\C#\CodeGenius\SqlCodeGenerator\bin\Debug\DBHelper.pdb
+D:\C#\CodeGenius\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.csprojResolveAssemblyReference.cache
+D:\C#\CodeGenius\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.dll
+D:\C#\CodeGenius\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.pdb
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\SqlCodeGenerator.dll
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\SqlCodeGenerator.pdb
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\DBHelper.dll
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\LibraryGenius.dll
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\log4net.dll
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\NPOI.dll
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\NPOI.OOXML.dll
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\Microsoft.Practices.Unity.dll
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\NPOI.OpenXml4Net.dll
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\DBHelper.pdb
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\LibraryGenius.pdb
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\NPOI.xml
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\NPOI.OOXML.xml
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\NPOI.OpenXml4Net.xml
+E:\file\CodeGenius V2.0\SqlCodeGenerator\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\file\CodeGenius V2.0\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.csprojResolveAssemblyReference.cache
+E:\file\CodeGenius V2.0\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.dll
+E:\file\CodeGenius V2.0\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.pdb
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\SqlCodeGenerator.dll
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\SqlCodeGenerator.pdb
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\DBHelper.dll
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\LibraryGenius.dll
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\NPOI.dll
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\log4net.dll
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\NPOI.OOXML.dll
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.Unity.dll
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\NPOI.OpenXml4Net.dll
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\DBHelper.pdb
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\LibraryGenius.pdb
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\NPOI.xml
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\NPOI.OOXML.xml
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\NPOI.OpenXml4Net.xml
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.csprojResolveAssemblyReference.cache
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.dll
+E:\程序\CodeGenius V2.1\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.pdb
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\SqlCodeGenerator.dll
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\SqlCodeGenerator.pdb
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\DBHelper.dll
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\LibraryGenius.dll
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\NPOI.dll
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\log4net.dll
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\NPOI.OOXML.dll
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.Unity.dll
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\NPOI.OpenXml4Net.dll
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\DBHelper.pdb
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\LibraryGenius.pdb
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\NPOI.xml
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\NPOI.OOXML.xml
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\NPOI.OpenXml4Net.xml
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.csprojResolveAssemblyReference.cache
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.dll
+E:\MyCode\CodeGenius V2.1\SqlCodeGenerator\obj\Debug\SqlCodeGenerator.pdb

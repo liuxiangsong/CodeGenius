@@ -1,0 +1,49 @@
+C:\Users\Lau\Desktop\CodeGenius\MyCollection\bin\Debug\MyCollection.exe
+C:\Users\Lau\Desktop\CodeGenius\MyCollection\bin\Debug\MyCollection.pdb
+C:\Users\Lau\Desktop\CodeGenius\MyCollection\obj\x86\Debug\MyCollection.Form1.resources
+C:\Users\Lau\Desktop\CodeGenius\MyCollection\obj\x86\Debug\MyCollection.Properties.Resources.resources
+C:\Users\Lau\Desktop\CodeGenius\MyCollection\obj\x86\Debug\MyCollection.csproj.GenerateResource.Cache
+C:\Users\Lau\Desktop\CodeGenius\MyCollection\obj\x86\Debug\MyCollection.exe
+C:\Users\Lau\Desktop\CodeGenius\MyCollection\obj\x86\Debug\MyCollection.pdb
+E:\C#\CodeGenius\MyCollection\bin\Debug\MyCollection.exe
+E:\C#\CodeGenius\MyCollection\bin\Debug\MyCollection.pdb
+E:\C#\CodeGenius\MyCollection\obj\x86\Debug\MyCollection.Form1.resources
+E:\C#\CodeGenius\MyCollection\obj\x86\Debug\MyCollection.Properties.Resources.resources
+E:\C#\CodeGenius\MyCollection\obj\x86\Debug\MyCollection.csproj.GenerateResource.Cache
+E:\C#\CodeGenius\MyCollection\obj\x86\Debug\MyCollection.exe
+E:\C#\CodeGenius\MyCollection\obj\x86\Debug\MyCollection.pdb
+D:\C#\CodeGenius\MyCollection\bin\Debug\MyCollection.exe
+D:\C#\CodeGenius\MyCollection\bin\Debug\MyCollection.pdb
+D:\C#\CodeGenius\MyCollection\obj\x86\Debug\MyCollection.Form1.resources
+D:\C#\CodeGenius\MyCollection\obj\x86\Debug\MyCollection.Properties.Resources.resources
+D:\C#\CodeGenius\MyCollection\obj\x86\Debug\MyCollection.csproj.GenerateResource.Cache
+D:\C#\CodeGenius\MyCollection\obj\x86\Debug\MyCollection.exe
+D:\C#\CodeGenius\MyCollection\obj\x86\Debug\MyCollection.pdb
+D:\C#\CodeGenius\MyCollection\obj\x86\Debug\MyCollection.csprojResolveAssemblyReference.cache
+E:\file\CodeGenius V2.0\MyCollection\bin\Debug\MyCollection.exe
+E:\file\CodeGenius V2.0\MyCollection\bin\Debug\MyCollection.pdb
+E:\file\CodeGenius V2.0\MyCollection\obj\x86\Debug\MyCollection.Form1.resources
+E:\file\CodeGenius V2.0\MyCollection\obj\x86\Debug\MyCollection.Properties.Resources.resources
+E:\file\CodeGenius V2.0\MyCollection\obj\x86\Debug\MyCollection.csproj.GenerateResource.Cache
+E:\file\CodeGenius V2.0\MyCollection\obj\x86\Debug\MyCollection.exe
+E:\file\CodeGenius V2.0\MyCollection\obj\x86\Debug\MyCollection.pdb
+E:\file\CodeGenius V2.0\MyCollection\obj\x86\Debug\MyCollection.csprojResolveAssemblyReference.cache
+E:\file\CodeGenius V2.0\MyCollection\bin\Debug\MyCollection.exe.config
+E:\程序\CodeGenius V2.1\MyCollection\bin\Debug\MyCollection.exe.config
+E:\程序\CodeGenius V2.1\MyCollection\bin\Debug\MyCollection.exe
+E:\程序\CodeGenius V2.1\MyCollection\bin\Debug\MyCollection.pdb
+E:\程序\CodeGenius V2.1\MyCollection\obj\x86\Debug\MyCollection.csprojResolveAssemblyReference.cache
+E:\程序\CodeGenius V2.1\MyCollection\obj\x86\Debug\MyCollection.Form1.resources
+E:\程序\CodeGenius V2.1\MyCollection\obj\x86\Debug\MyCollection.Properties.Resources.resources
+E:\程序\CodeGenius V2.1\MyCollection\obj\x86\Debug\MyCollection.csproj.GenerateResource.Cache
+E:\程序\CodeGenius V2.1\MyCollection\obj\x86\Debug\MyCollection.exe
+E:\程序\CodeGenius V2.1\MyCollection\obj\x86\Debug\MyCollection.pdb
+E:\MyCode\CodeGenius V2.1\MyCollection\bin\Debug\MyCollection.exe.config
+E:\MyCode\CodeGenius V2.1\MyCollection\bin\Debug\MyCollection.exe
+E:\MyCode\CodeGenius V2.1\MyCollection\bin\Debug\MyCollection.pdb
+E:\MyCode\CodeGenius V2.1\MyCollection\obj\x86\Debug\MyCollection.csprojResolveAssemblyReference.cache
+E:\MyCode\CodeGenius V2.1\MyCollection\obj\x86\Debug\MyCollection.Form1.resources
+E:\MyCode\CodeGenius V2.1\MyCollection\obj\x86\Debug\MyCollection.Properties.Resources.resources
+E:\MyCode\CodeGenius V2.1\MyCollection\obj\x86\Debug\MyCollection.csproj.GenerateResource.Cache
+E:\MyCode\CodeGenius V2.1\MyCollection\obj\x86\Debug\MyCollection.exe
+E:\MyCode\CodeGenius V2.1\MyCollection\obj\x86\Debug\MyCollection.pdb
