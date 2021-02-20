@@ -148,6 +148,24 @@ namespace LibraryGenius
                 return reader.ReadToEnd();
             }
         }
+
+        /// <summary>
+        /// 取得文件夹下指定类型的文件
+        /// </summary>
+        /// <param name="searchFolder">目录文件夹</param>
+        /// <param name="filters">文件扩展名数组</param>
+        /// <param name="isRecursive">是否循环搜索子文件夹</param>
+        /// <returns></returns>
+        public static String[] GetFilesFrom(String searchFolder, String[] filters, bool isRecursive = false)
+        {
+            var filesFound = new List<String>();
+            var searchOption = isRecursive ? SearchOption.AllDirectories : SearchOption.TopDirectoryOnly;
+            foreach (var filter in filters)
+            {
+                filesFound.AddRange(Directory.GetFiles(searchFolder, $"*.{filter.Trim()}", searchOption));
+            }
+            return filesFound.ToArray();
+        }
     }
 
 

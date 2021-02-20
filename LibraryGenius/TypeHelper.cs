@@ -9,6 +9,55 @@ namespace LibraryGenius
 {
     public static class TypeHelper
     {
+        /// <summary>
+        /// 判断列表中是否存在项
+        /// </summary>
+        /// <param name="list"></param>
+        /// <returns></returns>
+        public static bool HasItem(this IEnumerable<object> list)
+        {
+            if (list != null && list.Any())
+            {
+                return true;
+            }
+            return false;
+        }
+
+        /// <summary>
+        /// 通用类型转换方法，EG:"".As<String>()
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="obj"></param>
+        /// <returns></returns>
+        public static T As<T>(this object obj)
+        {
+            Type type = typeof(T);
+            if (typeof(T) == typeof(string))
+            {
+                return (T)Convert.ChangeType(obj + "", type);
+            }
+            try
+            {
+                if (type.Name.ToLower() == "guid")
+                {
+                    return (T)(object)new Guid(obj.ToString());
+                }
+                if (obj is IConvertible)
+                {
+                    return (T)Convert.ChangeType(obj, type);
+                }
+                if (obj == null)
+                {
+                    return default(T);
+                }
+                return (T)obj;
+            }
+            catch
+            {
+                return default(T);
+            }
+        }
+
         #region 基础类型转换
         /// <summary>
         ///  转换为布尔类型，为Yes时同样返回True
